@@ -6,3 +6,5 @@
 
 * Ruby version
   →ruby 2.6.9p207
+
+* new_folder1を追加
