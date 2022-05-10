@@ -1,7 +1,20 @@
 h1{
+  color: #ff0000;
   background-color: yellow;
 }
 
-h1{
-  color: #ff0000;
+.E-mail-address-form{
+  padding: 50px;
+  line-height: 50px;
 }
+
+.Password{
+  padding: 100px;
+  line-height: 50px;
+}
+
+.form-check{
+  padding: 50px;
+  line-height: 50px;
+}
+
